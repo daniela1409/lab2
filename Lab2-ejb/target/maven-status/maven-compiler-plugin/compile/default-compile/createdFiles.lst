@@ -1,0 +1,12 @@
+com\entity\Transaccion.class
+com\session\TransaccionFachadaLocal.class
+com\entity\Cliente.class
+com\entity\Tarjeta.class
+com\session\ClienteFachadaLocal.class
+com\entity\Tarjeta_.class
+com\entity\Transaccion_.class
+com\session\TarjetaFachadaLocal.class
+com\entity\Cliente_.class
+com\session\ClienteFachada.class
+com\session\TransaccionFachada.class
+com\session\TarjetaFachada.class
